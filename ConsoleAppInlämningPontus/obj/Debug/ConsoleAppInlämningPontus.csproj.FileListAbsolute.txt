@@ -1,0 +1,7 @@
+C:\Users\PontusHaglund\source\repos\ConsoleAppInlämningPontus\ConsoleAppInlämningPontus\bin\Debug\ConsoleAppInlämningPontus.exe.config
+C:\Users\PontusHaglund\source\repos\ConsoleAppInlämningPontus\ConsoleAppInlämningPontus\bin\Debug\ConsoleAppInlämningPontus.exe
+C:\Users\PontusHaglund\source\repos\ConsoleAppInlämningPontus\ConsoleAppInlämningPontus\bin\Debug\ConsoleAppInlämningPontus.pdb
+C:\Users\PontusHaglund\source\repos\ConsoleAppInlämningPontus\ConsoleAppInlämningPontus\obj\Debug\ConsoleAppInlämningPontus.csprojAssemblyReference.cache
+C:\Users\PontusHaglund\source\repos\ConsoleAppInlämningPontus\ConsoleAppInlämningPontus\obj\Debug\ConsoleAppInlämningPontus.csproj.CoreCompileInputs.cache
+C:\Users\PontusHaglund\source\repos\ConsoleAppInlämningPontus\ConsoleAppInlämningPontus\obj\Debug\ConsoleAppInlämningPontus.exe
+C:\Users\PontusHaglund\source\repos\ConsoleAppInlämningPontus\ConsoleAppInlämningPontus\obj\Debug\ConsoleAppInlämningPontus.pdb
